@@ -1,0 +1,22 @@
+
+.header {
+    background-color: #262d34;
+    height: 72px;
+  }
+  
+  .description {
+    margin-top: 0;
+color: #c9c7c7;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+  }
+  
+  .a-cherry {
+    color: #d08b98;
+  }
+  
+  .grey {
+    color: #b7bdc6;
+  }

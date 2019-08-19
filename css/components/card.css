@@ -1,0 +1,37 @@
+.card {
+    height: 115px;
+    width: 209px;
+
+}
+
+.card-description {
+width: 210px;
+height: 131px;
+color: #5c646e;
+font-family: "Arial MT";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+
+}
+
+.card-title {
+color: #282d33;
+font-family: "Arial - Bold MT";
+font-size: 18px;
+font-weight: 600;
+line-height: 20px;
+}
+
+.moreabout {
+color: #ff1744;
+font-family: "Arial - Bold MT";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+text-decoration: underline;
+}
+
+.moreabout:hover {
+    color: blue;
+}

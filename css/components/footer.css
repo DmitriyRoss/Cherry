@@ -1,0 +1,28 @@
+.footer {
+    background-color: #262d34;
+    color: #85898f;
+}
+
+.qaz {
+    display: inline-block;
+}
+
+.red-strip {
+    padding-bottom: 10px; 
+}
+
+.callus {
+color: #a5adb8;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: 600;
+}
+
+.li {
+   color: red;
+}
+
+.list-color {
+    color: #6d7278;
+}
+

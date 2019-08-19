@@ -1,0 +1,32 @@
+.list {
+  vertical-align: top;
+color: #5c646e;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 0;
+line-height: 24px;
+padding-left: 0;
+}
+
+.list-title {
+  margin-top: 30px;
+color: #a5adb8;
+font-family: "Arial";
+font-size: 24px;
+font-weight: 600;
+line-height: 14px;
+}
+
+.list-unstyled {
+  list-style: none;
+  vertical-align: top;
+}
+
+.list-disc {
+  list-style: disc;
+  vertical-align: top;
+}
+
+.list-ordered {
+  vertical-align: top;
+}

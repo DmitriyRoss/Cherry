@@ -1,0 +1,24 @@
+
+.section-title {
+color: #a5adb8;
+font-family: "Arial";
+font-size: 24px;
+font-weight: 600;
+line-height: 14px;
+
+}
+
+.section-description {
+color: #5c646e;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+}
+
+.section-link:hover {
+    color: blue;
+
+}
+
+
